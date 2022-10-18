@@ -65,6 +65,16 @@ This section of the contracts models a real-life scenario, depicts the marriage 
             - checkStatus
             - tryCopulate
 
+### How to run:
+```
+    git clone https://github.com/bobeu/myportfolio.git
+
+    cd myportfolio
+
+    npm install
+
+    npx hardhat compile
+```
 <!-- a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
